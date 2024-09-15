@@ -6,7 +6,7 @@ export default function Layout() {
   return (
     <>
       <Header/>
-      <main className='p-6 bg-red-500/75 h-screen text-white'>
+      <main className='p-6 bg-backgroundPurple/75 h-full text-white'>
         <Outlet/>
       </main>
       <video autoPlay loop muted playsInline src={Rugal} id='video'/>

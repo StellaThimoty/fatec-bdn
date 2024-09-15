@@ -11,6 +11,7 @@ export default {
       // Colors specific to this project
       navbarGray: '#D9D9D9',
       textPurple: '#890CD2',
+      backgroundPurple: '#270043',
       // Tailwind defaults
       transparent: 'transparent',
       current: 'currentColor',

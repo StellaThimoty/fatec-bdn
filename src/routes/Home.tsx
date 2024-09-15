@@ -4,7 +4,7 @@ import unibr from '/unibr.png'
 export default function Home() {
   return (
     <>
-      <div className='flex items-center justify-center text-center -mt-16 flex-col bg-green-500'>
+      <div className='flex items-center justify-center text-center -mt-16 flex-col'>
         <img src={bdn} alt="Logo Barões da Noite" className='size-1/2 -mb-16'/>
         <div className="uppercase font-lemonmilk text-xs text-bold whitespace-pre-wrap">
         The shadowed souls, the path of destiny they traverse. What they desires, only the moonlight whispers. The battle begins under the stars, a clash like no other. 
@@ -13,7 +13,7 @@ The arena, limitless, no escape. Courage is reborn in this twilight. Fear is an 
         </div>
       </div>
       <div className="flex justify-between text-base mt-4">
-        <div className='ml-8 w-[682px] bg-blue-500 whitespace-pre-line'>
+        <div className='ml-8 w-[682px] whitespace-pre-line'>
           <h1 className="text-4xl font-lemonmilk">TIMELINE</h1>
           <hr className='border-1'/>
           <div className='leading-loose'>
@@ -25,7 +25,7 @@ The arena, limitless, no escape. Courage is reborn in this twilight. Fear is an 
           Semana 4 ................ 1 de Novembro - 3 de Novembro
           </div>
         </div>
-        <div className='mx-8 w-[682px] text-base bg-blue-500'>
+        <div className='mx-8 w-[682px] text-base'>
           <div className='whitespace-pre-line'>
             <h1 className="text-4xl font-lemonmilk">O QUE É</h1>
             <hr className='border-1'/>
