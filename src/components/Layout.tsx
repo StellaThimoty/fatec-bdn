@@ -6,10 +6,10 @@ export default function Layout() {
   return (
     <>
       <Header/>
-      <main className='p-6 bg-red-500/75 h-screen'>
+      <main className='p-6 bg-red-500/75 h-screen text-white'>
         <Outlet/>
       </main>
-      <video autoPlay loop muted playsInline src={Rugal} className='bg-red-500' id='video'/>
+      <video autoPlay loop muted playsInline src={Rugal} id='video'/>
     </>
   )
 }

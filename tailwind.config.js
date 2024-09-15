@@ -18,6 +18,7 @@ export default {
       gray: colors.gray,
       zinc: colors.zinc,
       neutral: colors.neutral,
+      white: colors.white,
       black: colors.black,
       stone: colors.stone,
       red: colors.red,
