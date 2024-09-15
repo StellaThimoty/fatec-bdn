@@ -1,0 +1,617 @@
+[
+    {
+        "position": 1,
+        "username": "Guiziin",
+        "names": [
+            "Guiziin",
+            "Chef\u00e3o Atl\u00e9tico",
+            "Guizin de linne",
+            "Corredor do Clash Royale",
+            "Might Guy"
+        ],
+        "total_points": 145,
+        "tournaments": {
+            "quni2sc2": 6,
+            "quni2sc7": 20,
+            "quni2sc8": 8,
+            "quni2sc10": 10,
+            "quni2sc11": 10,
+            "quni2sc12": 6,
+            "quni2sc13": 35,
+            "quni2sc14": 15,
+            "quni2sc15": 35
+        }
+    },
+    {
+        "position": 2,
+        "username": "Axuul",
+        "names": [
+            "Axuul",
+            "Axuul de Wald",
+            "Axuul de Uzuki"
+        ],
+        "total_points": 125,
+        "tournaments": {
+            "quni2sc2": 12,
+            "quni2sc3": 8,
+            "quni2sc4": 15,
+            "quni2sc8": 6,
+            "quni2sc9": 15,
+            "quni2sc10": 12,
+            "quni2sc12": 4,
+            "quni2sc13": 18,
+            "quni2sc14": 35
+        }
+    },
+    {
+        "position": 3,
+        "username": "Erivpv",
+        "names": [
+            "Erivpv",
+            "DIVINE BEAST DANCING LION"
+        ],
+        "total_points": 121,
+        "tournaments": {
+            "quni2sc3": 4,
+            "quni2sc4": 10,
+            "quni2sc5": 15,
+            "quni2sc6": 15,
+            "quni2sc7": 12,
+            "quni2sc9": 20,
+            "quni2sc10": 15,
+            "quni2sc12": 20,
+            "quni2sc14": 10
+        }
+    },
+    {
+        "position": 4,
+        "username": "ggsKnox",
+        "names": [
+            "[HSPCarnaval] Knox",
+            "[HSPC] [CdJ] [AdK Associados] [Derby Associados] [ZateFGC] [Comit\u00ea] [KOFZAP] [QG] [Panela] Knox",
+            "Knox",
+            "Knox Diretamente do Off",
+            "Knox Fazendeiro",
+            "Knox MEGA BUFFS",
+            "Knox nervoso pra caralho por causa da evo",
+            "[HSPC] [CdJ] Knox",
+            "Senhor Rinite"
+        ],
+        "total_points": 119,
+        "tournaments": {
+            "quni2sc2": 8,
+            "quni2sc3": 12,
+            "quni2sc4": 6,
+            "quni2sc6": 4,
+            "quni2sc7": 6,
+            "quni2sc8": 6,
+            "quni2sc9": 8,
+            "quni2sc10": 6,
+            "quni2sc11": 4,
+            "quni2sc12": 8,
+            "quni2sc13": 15,
+            "quni2sc14": 18,
+            "quni2sc15": 18
+        }
+    },
+    {
+        "position": 5,
+        "username": "Jacaaa",
+        "names": [
+            "Jacaaa",
+            "Gaara of the sand"
+        ],
+        "total_points": 113,
+        "tournaments": {
+            "quni2sc2": 20,
+            "quni2sc3": 10,
+            "quni2sc8": 15,
+            "quni2sc10": 4,
+            "quni2sc11": 15,
+            "quni2sc12": 12,
+            "quni2sc13": 12,
+            "quni2sc14": 25
+        }
+    },
+    {
+        "position": 6,
+        "username": "Ferovsky",
+        "names": [
+            "GRP | Ferovsky",
+            "Rock Lee",
+            "GRP | Comiss\u00f5es Abertas"
+        ],
+        "total_points": 101,
+        "tournaments": {
+            "quni2sc4": 12,
+            "quni2sc5": 8,
+            "quni2sc8": 20,
+            "quni2sc9": 10,
+            "quni2sc11": 8,
+            "quni2sc13": 25,
+            "quni2sc14": 6,
+            "quni2sc15": 12
+        }
+    },
+    {
+        "position": 7,
+        "username": "Akazacaiu",
+        "names": [
+            "Akazacaiu",
+            "[CdJ] On\u00e7a Pintuda"
+        ],
+        "total_points": 91,
+        "tournaments": {
+            "quni2sc2": 2,
+            "quni2sc4": 6,
+            "quni2sc5": 6,
+            "quni2sc7": 15,
+            "quni2sc9": 12,
+            "quni2sc11": 20,
+            "quni2sc12": 15,
+            "quni2sc15": 15
+        }
+    },
+    {
+        "position": 8,
+        "username": "ShueideR",
+        "names": [
+            "ShueideR"
+        ],
+        "total_points": 75,
+        "tournaments": {
+            "quni2sc2": 15,
+            "quni2sc3": 20,
+            "quni2sc5": 20,
+            "quni2sc6": 20
+        }
+    },
+    {
+        "position": 9,
+        "username": "Zarteke",
+        "names": [
+            "Zarteke",
+            "Zarteke do Tekken"
+        ],
+        "total_points": 74,
+        "tournaments": {
+            "quni2sc2": 2,
+            "quni2sc3": 8,
+            "quni2sc6": 10,
+            "quni2sc8": 12,
+            "quni2sc9": 6,
+            "quni2sc11": 8,
+            "quni2sc12": 6,
+            "quni2sc14": 10,
+            "quni2sc15": 12
+        }
+    },
+    {
+        "position": 10,
+        "username": "Klasfer",
+        "names": [
+            "Klasfer",
+            "Sasuke Uchiha"
+        ],
+        "total_points": 60,
+        "tournaments": {
+            "quni2sc2": 10,
+            "quni2sc4": 20,
+            "quni2sc5": 8,
+            "quni2sc8": 10,
+            "quni2sc14": 12
+        }
+    },
+    {
+        "position": 11,
+        "username": "Misimuso",
+        "names": [
+            "G9 | Misimuso"
+        ],
+        "total_points": 54,
+        "tournaments": {
+            "quni2sc3": 2,
+            "quni2sc5": 6,
+            "quni2sc11": 12,
+            "quni2sc12": 10,
+            "quni2sc13": 12,
+            "quni2sc14": 12
+        }
+    },
+    {
+        "position": 12,
+        "username": "boladim",
+        "names": [
+            "top1eltnum",
+            "Thiago",
+            "Naruto Uzumaki"
+        ],
+        "total_points": 45,
+        "tournaments": {
+            "quni2sc3": 6,
+            "quni2sc9": 8,
+            "quni2sc14": 6,
+            "quni2sc15": 25
+        }
+    },
+    {
+        "position": 13,
+        "username": "Zanaylo",
+        "names": [
+            "Zanaylo"
+        ],
+        "total_points": 40,
+        "tournaments": {
+            "quni2sc2": 4,
+            "quni2sc3": 6,
+            "quni2sc6": 6,
+            "quni2sc12": 8,
+            "quni2sc13": 10,
+            "quni2sc14": 6
+        }
+    },
+    {
+        "position": 14,
+        "username": "Crrocks",
+        "names": [
+            "Crrocks"
+        ],
+        "total_points": 32,
+        "tournaments": {
+            "quni2sc5": 12,
+            "quni2sc6": 8,
+            "quni2sc7": 8,
+            "quni2sc10": 4
+        }
+    },
+    {
+        "position": 15,
+        "username": "Defiantxd",
+        "names": [
+            "Defiant"
+        ],
+        "total_points": 28,
+        "tournaments": {
+            "quni2sc2": 8,
+            "quni2sc10": 20
+        }
+    },
+    {
+        "position": 16,
+        "username": "lxxmiidasxxl",
+        "names": [
+            "lxxmiidasxxl"
+        ],
+        "total_points": 27,
+        "tournaments": {
+            "quni2sc3": 15,
+            "quni2sc4": 4,
+            "quni2sc10": 4,
+            "quni2sc11": 4
+        }
+    },
+    {
+        "position": 17,
+        "username": "TIER_Sorixx",
+        "names": [
+            "TIER_Sorixx"
+        ],
+        "total_points": 24,
+        "tournaments": {
+            "quni2sc6": 6,
+            "quni2sc7": 6,
+            "quni2sc8": 8,
+            "quni2sc10": 4
+        }
+    },
+    {
+        "position": 18,
+        "username": "Augustop",
+        "names": [
+            "Augustop"
+        ],
+        "total_points": 24,
+        "tournaments": {
+            "quni2sc6": 12,
+            "quni2sc7": 8,
+            "quni2sc8": 4
+        }
+    },
+    {
+        "position": 19,
+        "username": "Ogresbiggestfan",
+        "names": [
+            "ProjectLYuumi"
+        ],
+        "total_points": 20,
+        "tournaments": {
+            "quni2sc2": 4,
+            "quni2sc6": 8,
+            "quni2sc10": 8
+        }
+    },
+    {
+        "position": 20,
+        "username": "Gokudeira12",
+        "names": [
+            "Gokudeira12"
+        ],
+        "total_points": 18,
+        "tournaments": {
+            "quni2sc4": 4,
+            "quni2sc12": 4,
+            "quni2sc15": 10
+        }
+    },
+    {
+        "position": 21,
+        "username": "MateusDD3",
+        "names": [
+            "MateusDD3"
+        ],
+        "total_points": 16,
+        "tournaments": {
+            "quni2sc7": 10,
+            "quni2sc11": 6
+        }
+    },
+    {
+        "position": 22,
+        "username": "Italotsv",
+        "names": [
+            "[HSPC] Italotsv",
+            "[HSPC] Italotss"
+        ],
+        "total_points": 12,
+        "tournaments": {
+            "quni2sc2": 4,
+            "quni2sc3": 2,
+            "quni2sc11": 6
+        }
+    },
+    {
+        "position": 23,
+        "username": "uMith",
+        "names": [
+            "PDR | Mith"
+        ],
+        "total_points": 12,
+        "tournaments": {
+            "quni2sc2": 2,
+            "quni2sc5": 10
+        }
+    },
+    {
+        "position": 24,
+        "username": "SmalleNDU",
+        "names": [
+            "SmalleNDU"
+        ],
+        "total_points": 12,
+        "tournaments": {
+            "quni2sc3": 4,
+            "quni2sc4": 8
+        }
+    },
+    {
+        "position": 25,
+        "username": "Faulki",
+        "names": [
+            "REF\u00c9M DA ULTRA ARCADE",
+            "Faulki"
+        ],
+        "total_points": 10,
+        "tournaments": {
+            "quni2sc2": 6,
+            "quni2sc8": 4
+        }
+    },
+    {
+        "position": 26,
+        "username": "aya_fgc",
+        "names": [
+            "aya (kani form)",
+            "aya"
+        ],
+        "total_points": 10,
+        "tournaments": {
+            "quni2sc3": 2,
+            "quni2sc10": 8
+        }
+    },
+    {
+        "position": 27,
+        "username": "CDonnie",
+        "names": [
+            "TEW_Donnie",
+            "CDonnie"
+        ],
+        "total_points": 10,
+        "tournaments": {
+            "quni2sc3": 4,
+            "quni2sc10": 6
+        }
+    },
+    {
+        "position": 28,
+        "username": "Yuuno_",
+        "names": [
+            "Yuuno",
+            "\u771f\u5b9f\u306e\u6b63\u7fa9"
+        ],
+        "total_points": 10,
+        "tournaments": {
+            "quni2sc8": 4,
+            "quni2sc9": 6
+        }
+    },
+    {
+        "position": 29,
+        "username": "1GB_Enyo",
+        "names": [
+            "TYRS_Enyo",
+            "1GB_Enyo"
+        ],
+        "total_points": 10,
+        "tournaments": {
+            "quni2sc11": 4,
+            "quni2sc14": 6
+        }
+    },
+    {
+        "position": 30,
+        "username": "AnexxoOne",
+        "names": [
+            "AnexxoOne"
+        ],
+        "total_points": 10,
+        "tournaments": {
+            "quni2sc13": 10
+        }
+    },
+    {
+        "position": 31,
+        "username": "Fowz",
+        "names": [
+            "Fowz"
+        ],
+        "total_points": 10,
+        "tournaments": {
+            "quni2sc15": 10
+        }
+    },
+    {
+        "position": 32,
+        "username": "Vais_",
+        "names": [
+            "Vais_"
+        ],
+        "total_points": 8,
+        "tournaments": {
+            "quni2sc4": 8
+        }
+    },
+    {
+        "position": 33,
+        "username": "Momobfgc",
+        "names": [
+            "Momobammi"
+        ],
+        "total_points": 8,
+        "tournaments": {
+            "quni2sc4": 4,
+            "quni2sc6": 4
+        }
+    },
+    {
+        "position": 34,
+        "username": "Lamego_",
+        "names": [
+            "sun"
+        ],
+        "total_points": 8,
+        "tournaments": {
+            "quni2sc11": 4,
+            "quni2sc12": 4
+        }
+    },
+    {
+        "position": 35,
+        "username": "buceido",
+        "names": [
+            "buceido"
+        ],
+        "total_points": 4,
+        "tournaments": {
+            "quni2sc2": 4
+        }
+    },
+    {
+        "position": 36,
+        "username": "yawn156",
+        "names": [
+            "yawn156"
+        ],
+        "total_points": 4,
+        "tournaments": {
+            "quni2sc3": 4
+        }
+    },
+    {
+        "position": 37,
+        "username": "SPIRALOIDE",
+        "names": [
+            "ADO | Rasen"
+        ],
+        "total_points": 4,
+        "tournaments": {
+            "quni2sc4": 4
+        }
+    },
+    {
+        "position": 38,
+        "username": "Lucsilva",
+        "names": [
+            "Lucsilva"
+        ],
+        "total_points": 4,
+        "tournaments": {
+            "quni2sc6": 4
+        }
+    },
+    {
+        "position": 39,
+        "username": "DCGrz",
+        "names": [
+            "DCGrz"
+        ],
+        "total_points": 4,
+        "tournaments": {
+            "quni2sc6": 4
+        }
+    },
+    {
+        "position": 40,
+        "username": "ADKSeth",
+        "names": [
+            "ADKSeth"
+        ],
+        "total_points": 4,
+        "tournaments": {
+            "quni2sc8": 4
+        }
+    },
+    {
+        "position": 41,
+        "username": "uSenp",
+        "names": [
+            "uSenp"
+        ],
+        "total_points": 4,
+        "tournaments": {
+            "quni2sc12": 4
+        }
+    },
+    {
+        "position": 42,
+        "username": "IMT_Blackbas",
+        "names": [
+            "IMT_Blackbas"
+        ],
+        "total_points": 2,
+        "tournaments": {
+            "quni2sc2": 2
+        }
+    },
+    {
+        "position": 43,
+        "username": "Gonzagas",
+        "names": [
+            "Gonzagas"
+        ],
+        "total_points": 2,
+        "tournaments": {
+            "quni2sc3": 2
+        }
+    }
+]
