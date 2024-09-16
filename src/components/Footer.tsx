@@ -9,14 +9,14 @@ export default function Footer() {
           </div>
           <div className="flex flex-row justify-around uppercase font-lemonmilk p-4">
             <div>
-              <ul>Feito por: 
+              <ul>Feito por
                 <li><a href="https://bsky.app/profile/efzstella.moe">EfzStella</a></li>
                 <li><a href="https://bsky.app/profile/hakkou.moe">Hakkou</a></li>
                 <li><a href="https://bsky.app/profile/codeepsilon5.moe">CodeEpsilon</a></li>
               </ul> 
             </div>
             <div>
-              Desenhado por:
+              Desenhado por
               <ul>
                 <li><a href="https://bsky.app/profile/ferovsky935.bsky.social">Ferovksy</a></li>
                 <li><a href="https://bsky.app/profile/desertmonkeyba.bsky.social">Desertmonkey</a></li>
