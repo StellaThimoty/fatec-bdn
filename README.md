@@ -1,50 +1,13 @@
-# React + TypeScript + Vite
+# Barões da Noite
+Projeto feito para servir de repositório e registro, com uma interface melhor que tabelas do challonge. Pode ser adaptado para qualquer caso, apenas mude as cores em `tailwind.config.js` e adapte os elementos
+## Este site é código livre, e sempre será. 
+  Programado por: 
+  - [EfzStella](https://bsky.app/profile/efzstella.moe)
+  - [Hakkou](https://bsky.app/profile/hakkou.moe)
+  - [CodeEpsilon](https://bsky.app/profile/codeepsilon5.moe)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  Desenhado por:
+   - [Ferovksy](https://bsky.app/profile/ferovsky935.bsky.social)
+   - [Desert Monkey](https://bsky.app/profile/desertmonkeyba.bsky.social)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Este site usa a fonte [LemonMilk](https://marsnev.com)
