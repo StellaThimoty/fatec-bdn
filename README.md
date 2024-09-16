@@ -1,4 +1,4 @@
-# Barões da Noite
+# Barões da Noite - Under Night in-Birth II
 Projeto feito para servir de repositório e registro, com uma interface melhor que tabelas do challonge. Pode ser adaptado para qualquer caso, apenas mude as cores em `tailwind.config.js` e adapte os elementos
 ## Este site é código livre, e sempre será. 
   Programado por: 
