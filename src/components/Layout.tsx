@@ -8,7 +8,6 @@ export default function Layout() {
   const Video = lazy(() => import('./Video'))
   return (
     <>
-      
       <main className='grow bg-backgroundPurple/75 h-[100%] min-h-screen text-white'>
         <Header/>
         <div className="p-6">

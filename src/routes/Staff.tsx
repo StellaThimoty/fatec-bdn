@@ -7,38 +7,38 @@ export default function Staff() {
         <h1 className="text-4xl font-lemonmilk pt-8">ORGANIZADORES</h1>
         <hr className='border-1 mb-4 w-[682px]'/>
         <div className="flex flex-row">
-          <StaffCard person='hakkou' handle="hakkou.moe" yt="" gh="" />
-          <StaffCard person='knox' handle="" yt="" gh="" />
+          <StaffCard person='hakkou' handle="hakkou.moe" />
+          <StaffCard person='knox' handle="ggsknox.bsky.social" />
         </div>
         <h1 className="text-4xl font-lemonmilk pt-8">NARRADORES</h1>
         <hr className='border-1 mb-4 w-[682px]'/>
         <div className="flex flex-row">
-          <StaffCard person='hakkou' handle="hakkou.moe" yt="" gh="" />
+          <StaffCard person='hakkou' handle="hakkou.moe" />
         </div>
         <h1 className="text-4xl font-lemonmilk pt-8">DESIGNERS</h1>
         <hr className='border-1 mb-4 w-[682px]'/>
         <div className="flex flex-row">
-          <StaffCard person='ferovsky' handle="ferovsky935.bsky.social" yt="Ferovsky" gh="" />
-          <StaffCard person='desertmonkey' handle="desertmonkeyba.bsky.social" yt="" gh="" />
+          <StaffCard person='ferovsky' handle="ferovsky935.bsky.social" yt="Ferovsky" />
+          <StaffCard person='desertmonkey' handle="desertmonkeyba.bsky.social" />
         </div>
         <h1 className="text-4xl font-lemonmilk pt-8">PROGRAMADORES</h1>
         <hr className='border-1 mb-4 w-[682px]'/>
         <div className="flex flex-row">
-          <StaffCard person="efzstella" handle="efzstella.moe" yt="" gh="StellaThimoty" />
-          <StaffCard person="hakkou" handle="hakkou.moe" yt="" gh="" />
-          <StaffCard person="codeepsilon" handle="codeepsilon.moe" yt="" gh="" />
+          <StaffCard person="efzstella" handle="efzstella.moe" yt="StellaEFZ" gh="StellaThimoty" />
+          <StaffCard person="hakkou" handle="hakkou.moe" />
+          <StaffCard person="codeepsilon" handle="codeepsilon.moe" />
         </div>
         <h1 className="text-4xl font-lemonmilk pt-8">AGRADECIMENTOS ESPECIAIS</h1>
         <hr className='border-1 mb-4 w-[682px]'/>
         <div className="flex flex-row">
-          <StaffCard person="guizin" handle="" yt="" gh="" />
-          <StaffCard person="axuul" handle="" yt="" gh="" />
-          <StaffCard person="miidas" handle="" yt="" gh="" />
+          <StaffCard person="guizin" handle="" />
+          <StaffCard person="axuul" handle="axuul.bsky.social" />
+          <StaffCard person="miidas" handle="" />
         </div>
         <div className="flex flex-row mt-4">
-          <StaffCard person="eri" handle="" yt="" gh="" />
-          <StaffCard person="jaca" handle="" yt="" gh="" />
-          <StaffCard person="eon" handle="" yt="" gh="" />
+          <StaffCard person="eri" handle="ericorexx.bsky.social" />
+          <StaffCard person="jaca" handle="" />
+          <StaffCard person="eon" handle="eonfgc.bsky.social" />
         </div>
       </div>
     </>
