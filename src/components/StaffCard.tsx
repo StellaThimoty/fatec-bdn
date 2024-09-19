@@ -5,7 +5,8 @@ console.log(new URL('/hakkou.webp', import.meta.url).href)
 export default function StaffCard({person, handle, yt, gh}: {person: string, handle: string, yt?:string, gh?:string}) {
   return (
       <div className="flex flex-row mr-8">
-        <img src={`/${person}.webp`} alt={person} className="rounded-full size-[85px]" />
+        // O CAMINHO ABAIXO NÃO FUNCIONA EM DEV
+        <img src={`/bdn-react-vite/${person}.webp`} alt={person} className="rounded-full size-[85px]" />
         <div>
           <h1 className="underline-staff text-4xl ml-4">{person}</h1>
          <div className="flex flex-row">
