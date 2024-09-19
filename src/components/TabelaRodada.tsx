@@ -1,12 +1,7 @@
+import { FaChevronUp } from "react-icons/fa";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "./ui/table";
 
 const data = [{
-  position: 1,
-  username: 'gnu/uguu',
-  total_points: 69,
-  record: '9-0',
-  dif_pts: 3,
-  tb: 0},{
   position: 1,
   username: 'gnu/uguu',
   total_points: 69,
@@ -145,7 +140,11 @@ export default function TabelaRodada() {
           </TableRow>
         ))}
         <TableRow className="text-center text-lg border-4">
-          <TableCell colSpan={6} className="text-center text-lg border-4 border-black/100 text-neutral-400"> ^ PASSAM PARA A PRÓXIMA FASE ^ </TableCell>
+          <TableCell colSpan={6} className="text-center text-lg border-4 border-black/100 text-neutral-400">
+            <div className="flex flex-row align-center text-center items-center justify-center">
+              <FaChevronUp/>&nbsp;PASSAM PARA A PRÓXIMA FASE&nbsp;<FaChevronUp/>
+            </div>
+          </TableCell>
         </TableRow>
         {data.slice(8,data.length).map((val) => (
           <TableRow key={val.username} className="text-center text-lg border-4 border-black/100">
