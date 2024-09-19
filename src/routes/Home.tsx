@@ -30,7 +30,6 @@ The arena, limitless, no escape. Courage is reborn in this twilight. Fear is an 
             <h1 className="text-4xl font-lemonmilk">O QUE É</h1>
             <hr className='border-1'/>
             A Liga Barões da Noite é um campeonato de pontos corridos onde encontraremos o jogador mais consistente de UNDER NIGHT IN-BIRH II Sys:Celes!
-            Text 
           </div>
           <div className='mt-4'>
             <h1 className="text-4xl font-lemonmilk">OFERECIMENTO</h1>

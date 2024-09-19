@@ -1,6 +1,7 @@
 import { Outlet } from 'react-router-dom'
 import Header from './Header'
 import Footer from './Footer'
+import gif from '/suspense.gif'
 import { Suspense, lazy } from 'react'
 
 
@@ -13,7 +14,7 @@ export default function Layout() {
         <div className="p-6">
           <Outlet/>
         </div>
-        <Suspense fallback={<p>No video</p>}>
+        <Suspense fallback={<img src={gif} width={1920} height={1080}></img>}>
           <Video/>
         </Suspense>
       </main>
