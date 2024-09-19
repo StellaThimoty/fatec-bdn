@@ -72,6 +72,9 @@ importers:
       eslint-plugin-react-refresh:
         specifier: ^0.4.9
         version: 0.4.12(eslint@9.10.0(jiti@1.21.6))
+      gh-pages:
+        specifier: ^6.1.1
+        version: 6.1.1
       globals:
         specifier: ^15.9.0
         version: 15.9.0
