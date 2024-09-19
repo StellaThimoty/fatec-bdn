@@ -1,9 +1,11 @@
 import { FaBluesky, FaYoutube, FaGithub } from "react-icons/fa6"
 
+console.log(new URL('/hakkou.webp', import.meta.url).href)
+
 export default function StaffCard({person, handle, yt, gh}: {person: string, handle: string, yt?:string, gh?:string}) {
   return (
       <div className="flex flex-row mr-8">
-        <img src={import.meta.resolve('/'+person+'.webp')} alt={person} className="rounded-full size-[85px]" />
+        <img src={new URL(`/${person}.webp`, import.meta.url).href} alt={person} className="rounded-full size-[85px]" />
         <div>
           <h1 className="underline-staff text-4xl ml-4">{person}</h1>
          <div className="flex flex-row">
