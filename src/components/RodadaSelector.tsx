@@ -10,14 +10,18 @@ export default function RodadaSelector() {
 
   return (
       <>
-        <div className="flex flex-row text-center content-center place-items-center">
-          <p className="font-lemonmilk uppercase text-[2rem] mr-4">RODADA - {pos}</p>
-          {partidas.map((_val, index) => (
-            <button className="font-lemonmilk uppercase text-[1.5rem] text-center mx-0.5 bg-textPurple/50 hover:bg-textPurple/70 focus:bg-textPurple/100 size-[3rem] border-2 border-black" type="button" value={index+1} onClick={(e) => setPos(Number(e.currentTarget.value))}>{index+1}</button>
-          ))}
+        <div className="flex flex-row text-center content-center place-items-center max-[840px]:justify-center mt-4">
+          <div className="flex min-[840px]:flex-row flex-col text-center content-center place-items-center">
+            <p className="font-lemonmilk uppercase text-[2rem] mr-4">RODADA - {pos}</p>
+            <div className="flex flex-row max-[860px]:mt-4 text-center content-center place-items-center">
+              {partidas.map((_val, index) => (
+                <button className="font-lemonmilk uppercase text-[1.5rem] text-center mx-0.5 bg-textPurple/50 hover:bg-textPurple/70 focus:bg-textPurple/100 size-[3rem] border-2 border-black" type="button" value={index+1} onClick={(e) => setPos(Number(e.currentTarget.value))}>{index+1}</button>
+              ))}
+            </div>
+          </div>
         </div>
-        <div className="flex flex-row justify-around text-center uppercase font-lemonmilk mt-4">
-          <Table className="uppercase font-lemonmilk mx-4 w-11/12">
+        <div className="flex min-[840px]:flex-row flex-col mt-4 justify-around text-center uppercase font-lemonmilk">
+          <Table className="uppercase font-lemonmilk m-2 mx-2 w-11/12 ">
             <TableBody>
               {partidas.slice(pos-1, pos).map((partida) => (
                 partida.rodada.slice(0,3).map((vs) => (
@@ -29,7 +33,7 @@ export default function RodadaSelector() {
                 ))))}
             </TableBody>
           </Table>
-          <Table className="uppercase font-lemonmilk mx-4 w-11/12">
+          <Table className="uppercase font-lemonmilk m-2 mx-2 w-11/12">
             <TableBody>
               {partidas.slice(pos-1,pos).map((partida) => (
                 partida.rodada.slice(3,6).map((vs) => (

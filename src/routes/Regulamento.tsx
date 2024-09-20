@@ -2,7 +2,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 
 export default function Regulamento() {
   return (
-    <div className="flex flex-row">
+    <div className="flex min-[970px]:flex-row flex-col">
     <section className="mx-8 w-[682px]">
       <h1 className="text-4xl font-lemonmilk">LIGA BARÕES DA NOITE #1</h1>
       <hr className='border-t-2'/>
@@ -11,7 +11,7 @@ export default function Regulamento() {
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">FASE 1</AccordionTrigger>
           <hr className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
-            <ul className="text-md">
+            <ul className="text-lg">
               <li>- 16 jogadores (12 classificam ranking baseado em resultados em torneios, outros 4 entrarão por um open qualifier)</li>
               <li>- Campeonato de pontos corridos (turno único)</li>
               <li>- Partidas são FT3</li>
@@ -24,7 +24,7 @@ export default function Regulamento() {
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">FASE 2</AccordionTrigger>
             <hr className='border-1'/>
             <AccordionContent className="pt-2 pl-3">
-            <ul className="text-md">
+            <ul className="text-lg">
               <li>- 2 grupos de 4 jogadores baseados na colocação do Top 8: </li>
               <ul className="pl-4">
                 <li>- Grupo 1: 1, 4, 5 e 8</li>
@@ -40,7 +40,7 @@ export default function Regulamento() {
         <AccordionTrigger className="text-2xl font-lemonmilk uppercase">A GRANDE FINAL</AccordionTrigger>
             <hr className='border-1'/>
             <AccordionContent className="pt-2 pl-3">
-            <ul className="text-md">
+            <ul className="text-lg">
               <li>- FT2 de FT5.</li>
               <li>- Para se sagrar campeão, é necessário vencer duas FT5</li>
             </ul>
@@ -48,7 +48,7 @@ export default function Regulamento() {
           </AccordionItem>
       </Accordion>
     </section>
-    <section className="mr-12 w-[682px]">
+    <section className="mx-8 w-[682px] max-[970px]:mt-12">
       <h1 className="text-4xl font-lemonmilk">REGRAS UNIVERSAIS</h1>
       <hr className='border-t-2'/>
       <Accordion type="single" collapsible className="w-full px-3 text-base">
@@ -56,7 +56,7 @@ export default function Regulamento() {
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">REGRAS GERAIS</AccordionTrigger>
           <hr className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
-            <ul className="text-md">
+            <ul className="text-lg">
               <li>- As partidas serão realizadas nos patches mais recentes sempre que disponíveis, podendo ser adiadas caso seja encontrado algum bug que impossibilite a realização das rodadas.</li>
               <li>- Proibimos qualquer tipo de trapaça, abuso de bugs ou glitches que deem uma vantagem competitiva óbvia. A organização da Liga Barões da Noite reserva o direito de banir personagens/técnicas/moves/etc. que julgar infringir a competitividade justa da realização do torneio e enquadrar no que fora proibido acima.</li>
               <li>- Comportamentos tóxicos dos participantes (injúrias que ferem a honra/integridade de outros) em qualquer canal de comunicação público que possa ser relacionado a liga.</li>
@@ -68,7 +68,7 @@ export default function Regulamento() {
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">CRITÉRIOS DE QUALIFICAÇÃO</AccordionTrigger>
           <hr className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
-            <ul className="text-md">
+            <ul className="text-lg">
             <li>- Sistema de pontuação de acordo com a colocação em campeonatos de relevância.</li>
             <li>- Pontos foram conquistados durante todos os campeonatos Quinzenais organizados pelo Zate. A partir do segundo até o último realizado antes do da data de corte.</li>
             <li>- Data de corte foi o dia 31 de Setembro de 2024.</li>
@@ -85,7 +85,7 @@ export default function Regulamento() {
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">SISTEMA DE PONTUAÇÃO</AccordionTrigger>
           <hr className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
-            <ul className="text-md">
+            <ul className="text-lg">
               <li>Definições de termos:</li>
               <ul className="pl-4">
                 <li>- Match: Referente a uma partida composta por 2 rounds dentro de um jogo.</li>
@@ -103,7 +103,7 @@ export default function Regulamento() {
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">CRITÉRIOS DE DESEMPATE</AccordionTrigger>
           <hr className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
-            <ul className="text-md">
+            <ul className="text-lg">
               <li>Critérios de desempate:</li>
               <ul className="pl-4">
                 <li>- Pontos conquistados</li>

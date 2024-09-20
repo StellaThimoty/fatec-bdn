@@ -21,6 +21,6 @@ const vidLink = (): string => {
 export default function Video() {
   const video = vidLink()
   return (
-    <video autoPlay loop muted preload='auto' src={video} id='video'/>
+    <video autoPlay loop muted preload='auto' height={Number(window.innerHeight)} width={Number(window.innerWidth)} src={video} id='bgVideo'/>
   )
 }
