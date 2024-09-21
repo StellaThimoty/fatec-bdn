@@ -18,7 +18,7 @@ export default function Footer() {
             <div>
               Desenhado por
               <ul>
-                <li><a href="https://bsky.app/profile/ferovsky935.bsky.social">Ferovksy</a></li>
+                <li><a href="https://bsky.app/profile/ferovsky935.bsky.social">Ferovsky</a></li>
                 <li><a href="https://bsky.app/profile/desertmonkeyba.bsky.social">Desertmonkey</a></li>
               </ul>
             </div>
