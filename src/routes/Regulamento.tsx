@@ -1,15 +1,16 @@
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
+import { Separator } from '@/components/ui/separator'
 
 export default function Regulamento() {
   return (
     <div className="flex min-[970px]:flex-row flex-col">
-    <section className="mx-8 w-[682px]">
+    <section className="mx-8 min-[723px]:w-[682px]">
       <h1 className="text-4xl font-lemonmilk">LIGA BARÕES DA NOITE #1</h1>
-      <hr className='border-t-2'/>
+      <Separator className='border-t-2'/>
       <Accordion type="single" collapsible className="w-full px-3 text-base">
         <AccordionItem value="item-1">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">FASE 1</AccordionTrigger>
-          <hr className='border-1'/>
+          <Separator className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
             <ul className="text-lg">
               <li>- 16 jogadores (12 classificam ranking baseado em resultados em torneios, outros 4 entrarão por um open qualifier)</li>
@@ -22,7 +23,7 @@ export default function Regulamento() {
         </AccordionItem>
         <AccordionItem value="item-2">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">FASE 2</AccordionTrigger>
-            <hr className='border-1'/>
+            <Separator className='border-1'/>
             <AccordionContent className="pt-2 pl-3">
             <ul className="text-lg">
               <li>- 2 grupos de 4 jogadores baseados na colocação do Top 8: </li>
@@ -38,7 +39,7 @@ export default function Regulamento() {
           </AccordionItem>
         <AccordionItem value="item-3">
         <AccordionTrigger className="text-2xl font-lemonmilk uppercase">A GRANDE FINAL</AccordionTrigger>
-            <hr className='border-1'/>
+            <Separator className='border-1'/>
             <AccordionContent className="pt-2 pl-3">
             <ul className="text-lg">
               <li>- FT2 de FT5.</li>
@@ -48,13 +49,13 @@ export default function Regulamento() {
           </AccordionItem>
       </Accordion>
     </section>
-    <section className="mx-8 w-[682px] max-[970px]:mt-12">
+    <section className="mx-8 min-[723px]:w-[682px] max-[970px]:mt-12">
       <h1 className="text-4xl font-lemonmilk">REGRAS UNIVERSAIS</h1>
-      <hr className='border-t-2'/>
+      <Separator className='border-t-2'/>
       <Accordion type="single" collapsible className="w-full px-3 text-base">
       <AccordionItem value="item-1">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">REGRAS GERAIS</AccordionTrigger>
-          <hr className='border-1'/>
+          <Separator className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
             <ul className="text-lg">
               <li>- As partidas serão realizadas nos patches mais recentes sempre que disponíveis, podendo ser adiadas caso seja encontrado algum bug que impossibilite a realização das rodadas.</li>
@@ -66,7 +67,7 @@ export default function Regulamento() {
         </AccordionItem>
         <AccordionItem value="item-2">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">CRITÉRIOS DE QUALIFICAÇÃO</AccordionTrigger>
-          <hr className='border-1'/>
+          <Separator className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
             <ul className="text-lg">
             <li>- Sistema de pontuação de acordo com a colocação em campeonatos de relevância.</li>
@@ -83,7 +84,7 @@ export default function Regulamento() {
         </AccordionItem>
         <AccordionItem value="item-3">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">SISTEMA DE PONTUAÇÃO</AccordionTrigger>
-          <hr className='border-1'/>
+          <Separator className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
             <ul className="text-lg">
               <li>Definições de termos:</li>
@@ -101,7 +102,7 @@ export default function Regulamento() {
         </AccordionItem>
         <AccordionItem value="item-4">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">CRITÉRIOS DE DESEMPATE</AccordionTrigger>
-          <hr className='border-1'/>
+          <Separator className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
             <ul className="text-lg">
               <li>Critérios de desempate:</li>
