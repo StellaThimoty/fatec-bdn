@@ -15,7 +15,7 @@ export default function RodadaSelector() {
             <p className="font-lemonmilk uppercase text-[2rem] mr-4">RODADA - {pos}</p>
             <div className="flex flex-row max-[860px]:mt-4 text-center content-center place-items-center">
               {partidas.map((_val, index) => (
-                <button className="font-lemonmilk uppercase text-[1.5rem] text-center mx-0.5 bg-textPurple/50 hover:bg-textPurple/70 focus:bg-textPurple/100 size-[3rem] border-2 border-black" type="button" value={index+1} onClick={(e) => setPos(Number(e.currentTarget.value))}>{index+1}</button>
+                <button key={index} className="font-lemonmilk uppercase text-[1.5rem] text-center mx-0.5 bg-textPurple/50 hover:bg-textPurple/70 focus:bg-textPurple/100 size-[3rem] border-2 border-black" type="button" value={index+1} onClick={(e) => setPos(Number(e.currentTarget.value))}>{index+1}</button>
               ))}
             </div>
           </div>
