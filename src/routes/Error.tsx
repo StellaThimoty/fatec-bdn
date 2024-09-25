@@ -5,6 +5,7 @@ import gif from '/suspense.gif'
 import { Suspense, lazy } from 'react'
 import MobileHeader from '../components/MobileHeader'
 import { Separator } from '@/components/ui/separator'
+import video from '/robot.mp4'
 
 export default function ErrorPage() {
   type ErrorType = {
@@ -28,7 +29,8 @@ export default function ErrorPage() {
             <div className='flex justify-center mt-8'>
               <p>Acabou de acontecer um erro</p>
               <p>{error.error.message}</p>
-            </div>
+              <video controls loop preload='auto' height={Number(window.innerHeight)} width={Number(window.innerWidth)} src={video} id='bgVideo'/>
+              </div>
           </div>
           <Suspense fallback={<img src={gif} id='bgVideo'></img>}>
             {window.innerWidth >= 723 ? <Video/> : <img src={gif} id='bgVideo'></img> }
