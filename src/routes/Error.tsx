@@ -26,10 +26,10 @@ export default function ErrorPage() {
           <div className="p-6">
             <h1 className="text-4xl font-lemonmilk uppercase">ERRO - {error.status} {error.statusText}</h1>
             <Separator className='border-1 min-[723px]:w-[682px]'/>
-            <div className='flex justify-center mt-8'>
+            <div className='flex justify-center mt-8 flex-col'>
               <p>Acabou de acontecer um erro</p>
               <p>{error.error.message}</p>
-              <video controls loop preload='auto' height={Number(window.innerHeight)} width={Number(window.innerWidth)} src={video} id='bgVideo'/>
+              <video controls loop preload='auto' height={640} width={480} src={video}/>
               </div>
           </div>
           <Suspense fallback={<img src={gif} id='bgVideo'></img>}>
