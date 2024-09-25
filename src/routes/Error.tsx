@@ -7,9 +7,16 @@ import MobileHeader from '../components/MobileHeader'
 import { Separator } from '@/components/ui/separator'
 
 export default function ErrorPage() {
+  type ErrorType = {
+    status: string,
+    statusText: string,
+    error: {
+      message: string
+    }
+  }
   const Video = lazy(() => import('../components/Video'))
-  const error = useRouteError();
-  console.error(error);
+  const error = useRouteError() as ErrorType;
+  console.error(error instanceof Error);
 
   return (
       <div className="max-[723px]:bg-[url('/suspense.gif')] bg-cover">
