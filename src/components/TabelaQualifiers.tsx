@@ -13,9 +13,9 @@ export default function TabelaQualifiers() {
         </TableRow>
       </TableHeader>
       <TableBody>
-        {data.slice(0,12).map((val) => (
+        {data.slice(0,12).map((val, index) => (
           <TableRow key={val.username} className="text-center text-lg border-4">
-            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{val.position}</TableCell>
+            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{index+1}</TableCell>
             <TableCell className="text-left text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50">{val.username}</TableCell>
             <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{val.total_points}</TableCell>
           </TableRow>
@@ -27,9 +27,9 @@ export default function TabelaQualifiers() {
             </div>
           </TableCell>
         </TableRow>
-        {data.slice(12,data.length).map((val) => (
+        {data.slice(12,data.length).map((val, index) => (
           <TableRow key={val.username} className="text-center text-lg border-4 border-black/100">
-            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{val.position}</TableCell>
+            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{index+13}</TableCell>
             <TableCell className="text-left text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50">{val.username}</TableCell>
             <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{val.total_points}</TableCell>
           </TableRow>

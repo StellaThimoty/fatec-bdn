@@ -18,7 +18,7 @@ export default function TabelaFinal() {
       <TableBody>
         {data.slice(0,4).map((val, index) => (
           <TableRow key={val.name} className="text-center text-lg border-4 border-black">
-            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{index}</TableCell>
+            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{index+1}</TableCell>
             <TableCell className="text-left text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50">{val.name}</TableCell>
             <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{val.points}</TableCell>
             <TableCell className="text-textPurple bg-white/70 h-[3rem] w-[5rem] border-4 border-black/100 hover:bg-white/50">{val.wins} - {val.losses}</TableCell>
@@ -36,7 +36,7 @@ export default function TabelaFinal() {
         </TableRow>
         {data.slice(4,data.length).map((val, index) => (
           <TableRow key={val.name} className="text-center text-lg border-4 border-black/100">
-            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{index}</TableCell>
+            <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{index+5}</TableCell>
             <TableCell className="text-left text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50">{val.name}</TableCell>
             <TableCell className="bg-textPurple/70 size-[3rem] border-4 border-black/100 hover:bg-textPurple/50">{val.points}</TableCell>
             <TableCell className="text-textPurple bg-white/70 h-[3rem] w-[5rem] border-4 border-black/100 hover:bg-white/50">{val.wins} - {val.losses}</TableCell>
