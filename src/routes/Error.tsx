@@ -5,7 +5,7 @@ import gif from '/suspense.gif'
 import { Suspense, lazy } from 'react'
 import MobileHeader from '../components/MobileHeader'
 import { Separator } from '@/components/ui/separator'
-import video from '/robot.mp4'
+import video from '/fuckedup_robot.mp4'
 
 export default function ErrorPage() {
   type ErrorType = {
