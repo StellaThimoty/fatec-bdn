@@ -8,11 +8,13 @@ import Rodadas from './routes/Rodadas';
 import Staff from './routes/Staff';
 import Tabela from './routes/Tabela';
 import './index.css'
+import ErrorPage from './routes/Error';
 
 const router = createHashRouter([
   {
     path: '/',
     element: <Layout/>,
+    errorElement: <ErrorPage/>,
     children: [
       {
       path: 'home',
