@@ -30,7 +30,7 @@ export default function ErrorPage() {
               <p>{error.error.message}</p>
             </div>
           </div>
-          <Suspense fallback={<img src={gif}></img>}>
+          <Suspense fallback={<img src={gif} id='bgVideo'></img>}>
             {window.innerWidth >= 723 ? <Video/> : <img src={gif} id='bgVideo'></img> }
           </Suspense>
         </main>

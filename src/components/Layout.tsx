@@ -16,8 +16,8 @@ export default function Layout() {
         <div className="p-6">
           <Outlet/>
         </div>
-        <Suspense fallback={<img src={gif}></img>}>
-          {window.innerWidth >= 723 ? <Video/> : '' }
+        <Suspense fallback={<img src={gif} id='bgVideo'></img>}>
+          {window.innerWidth >= 723 ? <Video/> : <img src={gif} id='bgVideo'></img> }
         </Suspense>
       </main>
       <Footer/>
