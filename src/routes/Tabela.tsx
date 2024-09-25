@@ -4,6 +4,9 @@ import TabelaRodada from '@/components/TabelaRodada';
 import TabelaFinal from '@/components/TabelaFinal';
 
 export default function Tabela() {
+  const fase1 = false;
+  const fase2 = false; 
+  // Mudar quando necessário 
   return (
     <>
     <Accordion type="single" collapsible className="w-full px-3 text-base">
@@ -14,20 +17,22 @@ export default function Tabela() {
             <TabelaQualifiers/>
           </AccordionContent>
         </AccordionItem>
-        <AccordionItem value="item-2">
+        { fase1 &&
+          <AccordionItem value="item-2">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">Fase 1</AccordionTrigger>
           <hr className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
             <TabelaRodada/>
           </AccordionContent>
-        </AccordionItem>
+        </AccordionItem>}
+        { fase2 && 
         <AccordionItem value="item-3">
           <AccordionTrigger className="text-2xl font-lemonmilk uppercase">Fase 2</AccordionTrigger>
           <hr className='border-1'/>
           <AccordionContent className="pt-2 pl-3">
             <TabelaFinal/>
           </AccordionContent>
-        </AccordionItem>
+        </AccordionItem>}
     </Accordion>
     </>
   )
