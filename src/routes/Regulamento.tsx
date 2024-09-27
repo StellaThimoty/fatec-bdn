@@ -83,6 +83,7 @@ export default function Regulamento() {
                 <li>- Entre 33 participantes e 48: Top 12 pontua.</li>
                 <li>- Acima de 49 participantes: Top 16 pontua.</li>
               </ul>
+            <li>- Em caso de algum jogador estar impossibilitado de jogar o campeonato, seja por região que se encontra ou outros motivos, e ele tiver se qualificado através da classificação pré-liga, ele será removido da classificação e todos os outros jogadores subirão uma posição.</li>
             </ul>
           </AccordionContent>
         </AccordionItem>
