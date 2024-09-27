@@ -1,7 +1,7 @@
 import { useState } from "react"
 import partidas from '@/assets/partidas.json'
 import { Table, TableBody, TableCell, TableRow } from './ui/table'
-
+import { ToggleGroup, ToggleGroupItem } from "./ui/toggle-group"
 // Isso poderia ser dividido em dois componentes mas eu não estou
 // com saco pra fazer essa reescrita de passar props e sei lá o que
 
@@ -10,14 +10,14 @@ export default function RodadaSelector() {
 
   return (
       <>
-        <div className="flex flex-row text-center content-center place-items-center max-[840px]:justify-center mt-4">
-          <div className="flex min-[840px]:flex-row flex-col text-center content-center place-items-center">
-            <p className="font-lemonmilk uppercase text-[2rem] mr-4">RODADA - {pos}</p>
-            <div className="flex flex-row max-[860px]:mt-4 text-center content-center place-items-center">
-              {partidas.map((_val, index) => (
-                <button key={index} className="font-lemonmilk uppercase text-[1.5rem] text-center mx-0.5 bg-textPurple/50 hover:bg-textPurple/70 focus:bg-textPurple/100 size-[3rem] border-2 border-black" type="button" value={index+1} onClick={(e) => setPos(Number(e.currentTarget.value))}>{index+1}</button>
+        <div className="flex flex-row place-items-center max-[840px]:justify-center mt-4">
+          <div className="flex min-[840px]:flex-row flex-col overflow-x-auto">
+            <p className="font-lemonmilk uppercase text-[2rem] mr-4 place-self-center">RODADA - {pos}</p>
+            <ToggleGroup variant={"outline"} type="single" className="flex flex-row max-[860px]:mt-4 place-self-start">
+            {partidas.map((_, index) => (
+                <ToggleGroupItem key={index} tabIndex={index} value={String(index+1)} className="font-lemonmilk uppercase size-[3rem] text-[1.5rem] text-center border-2 border-black shrink-0 bg-textPurple/70 hover:bg-navbarGray/80 text-neutral-100 hover:text-textPurple/80 data-[state=on]:bg-neutral-100 data-[state=on]:text-textPurple" type="button" onClick={(e) => setPos(Number(e.currentTarget.textContent))}>{index+1}</ToggleGroupItem>
               ))}
-            </div>
+            </ToggleGroup>
           </div>
         </div>
         <div className="flex min-[840px]:flex-row flex-col mt-4 justify-around text-center uppercase font-lemonmilk">

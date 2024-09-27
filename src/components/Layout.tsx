@@ -11,7 +11,7 @@ export default function Layout() {
 
   return (
     <div className="max-[723px]:bg-[url('/suspense.gif')] bg-cover">
-      <main className='grow bg-backgroundPurple/75 h-[100%] min-h-screen text-white'>
+      <main className='grow bg-backgroundPurple/75 h-[100%] min-h-screen text-white overflow-hidden'>
         {window.innerWidth >= 723 ? <Header/> : <MobileHeader/>}
         <div className="p-6">
           <Outlet/>

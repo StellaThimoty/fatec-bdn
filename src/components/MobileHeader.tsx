@@ -15,7 +15,7 @@ export default function MobileHeader() {
           <SheetHeader>
             <SheetTitle className='text-lg uppercase'>Barões da Noite</SheetTitle>
             <Separator className='bg-text-purple'/>
-            <SheetDescription className='flex flex-col text-2xl'>
+            <SheetDescription className='flex flex-col text-2xl grow-0'>
             <NavLink to='home' className={({isActive}) => isActive ? "mx-5 py-4 text-textPurple decoration-4 underline-offset-4 underline" : "mx-5 my-4 text-textPurple underline-hover"}>
             &nbsp;HOME&nbsp;
             </NavLink> 
