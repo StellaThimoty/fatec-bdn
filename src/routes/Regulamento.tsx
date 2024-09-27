@@ -64,7 +64,7 @@ export default function Regulamento() {
             <ul className="text-lg">
               <li>- As partidas serão realizadas nos patches mais recentes sempre que disponíveis, podendo ser adiadas caso seja encontrado algum bug que impossibilite a realização das rodadas.</li>
               <li>- Proibimos qualquer tipo de trapaça, abuso de bugs ou glitches que deem uma vantagem competitiva óbvia. A organização da Liga Barões da Noite reserva o direito de banir personagens/técnicas/moves/etc. que julgar infringir a competitividade justa da realização do torneio e enquadrar no que fora proibido acima.</li>
-              <li>- Comportamentos tóxicos dos participantes (injúrias que ferem a honra/integridade de outros) em qualquer canal de comunicação público que possa ser relacionado a liga.</li>
+              <li>- Proibimos quaisquer comportamentos tóxicos dos participantes (injúrias que ferem a honra/integridade de outros) em qualquer canal de comunicação público que possa ser relacionado a liga.</li>
               <li>- A organização da Liga Barões da Noite reserva o direito de remover qualquer participante sem aviso prévio caso as regras acima ou relacionadas de outras comunidades de jogos de luta sejam quebradas. Aplicaremos o bom-senso caso a infração não esteja coberta pelas definições prévias.</li>
             </ul>
           </AccordionContent>
