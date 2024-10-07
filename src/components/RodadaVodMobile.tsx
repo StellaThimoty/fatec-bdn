@@ -1,5 +1,3 @@
-import { Cross2Icon } from "@radix-ui/react-icons";
-import { Dialog, DialogTrigger, DialogContent, DialogTitle, DialogClose, DialogHeader } from "./ui/dialog";
 import { TableRow, TableCell } from "./ui/table";
 import { Drawer, DrawerContent, DrawerHeader, DrawerTitle, DrawerTrigger } from "./ui/drawer";
 import { useState } from "react";
