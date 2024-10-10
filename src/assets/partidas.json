@@ -1,872 +1,1442 @@
-{
-    "rodada1": [
-        {
-            "p1": "Zarteke",
-            "p2": "Klasfer",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "[HSPC] Knox",
-            "p2": "chileseco",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Axuul",
-            "p2": "sun",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Eri^",
-            "p2": "Guigols",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "GRP | Ferovsky",
-            "p2": "Zanaylo",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Akaza",
-            "p2": "G9 | Misimuso",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "ShueideR",
-            "p2": "Thiago",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "miidas",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada2": [
-        {
-            "p1": "Guizin",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Thiago",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guigols",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "sun",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "chileseco",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "miidas",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada3": [
-        {
-            "p1": "Zarteke",
-            "p2": "G9 | Misimuso",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Axuul",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Eri^",
-            "p2": "chileseco",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "GRP | Ferovsky",
-            "p2": "sun",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Akaza",
-            "p2": "Guigols",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "ShueideR",
-            "p2": "Zanaylo",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "miidas",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "Thiago",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada4": [
-        {
-            "p1": "chileseco",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "Klasfer",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guigols",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "sun",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Thiago",
-            "p2": "miidas",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guizin",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "[HSPC] Knox",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada5": [
-        {
-            "p1": "ShueideR",
-            "p2": "sun",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Eri^",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "GRP | Ferovsky",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Akaza",
-            "p2": "chileseco",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "miidas",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zarteke",
-            "p2": "Guigols",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "Zanaylo",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Thiago",
-            "p2": "G9 | Misimuso",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada6": [
-        {
-            "p1": "sun",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "Thiago",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guigols",
-            "p2": "Klasfer",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "miidas",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "chileseco",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guizin",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "[HSPC] Knox",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Axuul",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada7": [
-        {
-            "p1": "Akaza",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "GRP | Ferovsky",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "miidas",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "ShueideR",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zarteke",
-            "p2": "chileseco",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "sun",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Thiago",
-            "p2": "Guigols",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "Zanaylo",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada8": [
-        {
-            "p1": "Guigols",
-            "p2": "G9 | Misimuso",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "miidas",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "sun",
-            "p2": "Thiago",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "chileseco",
-            "p2": "Klasfer",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guizin",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "[HSPC] Knox",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Axuul",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Eri^",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada9": [
-        {
-            "p1": "miidas",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Akaza",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "ShueideR",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zarteke",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Thiago",
-            "p2": "chileseco",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "sun",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "Guigols",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada10": [
-        {
-            "p1": "Guigols",
-            "p2": "miidas",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "sun",
-            "p2": "Zanaylo",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "chileseco",
-            "p2": "G9 | Misimuso",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guizin",
-            "p2": "Thiago",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "[HSPC] Knox",
-            "p2": "Klasfer",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Axuul",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Eri^",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "GRP | Ferovsky",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada11": [
-        {
-            "p1": "ShueideR",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "miidas",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zarteke",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Thiago",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "chileseco",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guigols",
-            "p2": "sun",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada12": [
-        {
-            "p1": "Guizin",
-            "p2": "Zanaylo",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "chileseco",
-            "p2": "Guigols",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "sun",
-            "p2": "miidas",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "[HSPC] Knox",
-            "p2": "G9 | Misimuso",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Axuul",
-            "p2": "Thiago",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Eri^",
-            "p2": "Klasfer",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "GRP | Ferovsky",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Akaza",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada13": [
-        {
-            "p1": "Thiago",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zarteke",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "miidas",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guigols",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "sun",
-            "p2": "chileseco",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada14": [
-        {
-            "p1": "Eri^",
-            "p2": "G9 | Misimuso",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Guizin",
-            "p2": "sun",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "[HSPC] Knox",
-            "p2": "Guigols",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Axuul",
-            "p2": "Zanaylo",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "chileseco",
-            "p2": "miidas",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "GRP | Ferovsky",
-            "p2": "Thiago",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Akaza",
-            "p2": "Klasfer",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "ShueideR",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ],
-    "rodada15": [
-        {
-            "p1": "Guigols",
-            "p2": "Axuul",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Klasfer",
-            "p2": "ShueideR",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Thiago",
-            "p2": "Akaza",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "G9 | Misimuso",
-            "p2": "GRP | Ferovsky",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "Zanaylo",
-            "p2": "Eri^",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "miidas",
-            "p2": "Zarteke",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "sun",
-            "p2": "[HSPC] Knox",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        },
-        {
-            "p1": "chileseco",
-            "p2": "Guizin",
-            "score_p1": "",
-            "score_p2": "",
-            "vod": ""
-        }
-    ]
-}
+[
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "Zarteke",
+                "p2": "Klasfer",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "[HSPC] Knox",
+                "p2": "chileseco",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "Axuul",
+                "p2": "sun",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "Eri^",
+                "p2": "Guigols",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "GRP | Ferovsky",
+                "p2": "Zanaylo",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "Akaza",
+                "p2": "G9 | Misimuso",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "ShueideR",
+                "p2": "Thiago",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 1,
+                "p1": "miidas",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "Guizin",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "Thiago",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "G9 | Misimuso",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "Zanaylo",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "Guigols",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "sun",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "chileseco",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 2,
+                "p1": "Klasfer",
+                "p2": "miidas",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "Zarteke",
+                "p2": "G9 | Misimuso",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "Axuul",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "Eri^",
+                "p2": "chileseco",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "GRP | Ferovsky",
+                "p2": "sun",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "Akaza",
+                "p2": "Guigols",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "ShueideR",
+                "p2": "Zanaylo",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "miidas",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 3,
+                "p1": "Klasfer",
+                "p2": "Thiago",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "chileseco",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "G9 | Misimuso",
+                "p2": "Klasfer",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "Zanaylo",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "Guigols",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "sun",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "Thiago",
+                "p2": "miidas",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "Guizin",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 4,
+                "p1": "[HSPC] Knox",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "ShueideR",
+                "p2": "sun",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "Eri^",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "GRP | Ferovsky",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "Akaza",
+                "p2": "chileseco",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "miidas",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "Zarteke",
+                "p2": "Guigols",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "Klasfer",
+                "p2": "Zanaylo",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 5,
+                "p1": "Thiago",
+                "p2": "G9 | Misimuso",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "sun",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "Zanaylo",
+                "p2": "Thiago",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "Guigols",
+                "p2": "Klasfer",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "G9 | Misimuso",
+                "p2": "miidas",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "chileseco",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "Guizin",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "[HSPC] Knox",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 6,
+                "p1": "Axuul",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "Akaza",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "GRP | Ferovsky",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "miidas",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "ShueideR",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "Zarteke",
+                "p2": "chileseco",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "Klasfer",
+                "p2": "sun",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "Thiago",
+                "p2": "Guigols",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 7,
+                "p1": "G9 | Misimuso",
+                "p2": "Zanaylo",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "Guigols",
+                "p2": "G9 | Misimuso",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "Zanaylo",
+                "p2": "miidas",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "sun",
+                "p2": "Thiago",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "chileseco",
+                "p2": "Klasfer",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "Guizin",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "[HSPC] Knox",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "Axuul",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 8,
+                "p1": "Eri^",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "miidas",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "Akaza",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "ShueideR",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "Zarteke",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "Klasfer",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "Thiago",
+                "p2": "chileseco",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "G9 | Misimuso",
+                "p2": "sun",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 9,
+                "p1": "Zanaylo",
+                "p2": "Guigols",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "Guigols",
+                "p2": "miidas",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "sun",
+                "p2": "Zanaylo",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "chileseco",
+                "p2": "G9 | Misimuso",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "Guizin",
+                "p2": "Thiago",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "[HSPC] Knox",
+                "p2": "Klasfer",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "Axuul",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "Eri^",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 10,
+                "p1": "GRP | Ferovsky",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "ShueideR",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "miidas",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "Zarteke",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "Klasfer",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "Thiago",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "G9 | Misimuso",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "Zanaylo",
+                "p2": "chileseco",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 11,
+                "p1": "Guigols",
+                "p2": "sun",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "Guizin",
+                "p2": "Zanaylo",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "chileseco",
+                "p2": "Guigols",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "sun",
+                "p2": "miidas",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "[HSPC] Knox",
+                "p2": "G9 | Misimuso",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "Axuul",
+                "p2": "Thiago",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "Eri^",
+                "p2": "Klasfer",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "GRP | Ferovsky",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 12,
+                "p1": "Akaza",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "Thiago",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "Zarteke",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "Klasfer",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "miidas",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "G9 | Misimuso",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "Zanaylo",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "Guigols",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 13,
+                "p1": "sun",
+                "p2": "chileseco",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "Eri^",
+                "p2": "G9 | Misimuso",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "Guizin",
+                "p2": "sun",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "[HSPC] Knox",
+                "p2": "Guigols",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "Axuul",
+                "p2": "Zanaylo",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "chileseco",
+                "p2": "miidas",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "GRP | Ferovsky",
+                "p2": "Thiago",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "Akaza",
+                "p2": "Klasfer",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 14,
+                "p1": "ShueideR",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "Guigols",
+                "p2": "Axuul",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "Klasfer",
+                "p2": "ShueideR",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "Thiago",
+                "p2": "Akaza",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "G9 | Misimuso",
+                "p2": "GRP | Ferovsky",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "Zanaylo",
+                "p2": "Eri^",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "miidas",
+                "p2": "Zarteke",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "sun",
+                "p2": "[HSPC] Knox",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    },
+    {
+        "rodada": [
+            {
+                "rodada": 15,
+                "p1": "chileseco",
+                "p2": "Guizin",
+                "score_p1": "",
+                "score_p2": "",
+                "vod": ""
+            }
+        ]
+    }
+]
