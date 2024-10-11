@@ -2,16 +2,16 @@ import { TableRow, TableCell } from "./ui/table";
 import { Drawer, DrawerContent, DrawerHeader, DrawerTitle, DrawerTrigger } from "./ui/drawer";
 import { useState } from "react";
 
-export default function RodadaMobile({p1, p2, vod}: {p1: string, p2:string, vod?:string}) {
+export default function RodadaMobile({p1, p2, vod, score_p1="0", score_p2="0"}: {p1: string, p2:string, vod?:string, score_p1?: string, score_p2?: string}) {
   const [open, setOpen] = useState(false)
 
   return (
     <Drawer open={open} onOpenChange={setOpen}>
       <DrawerTrigger asChild>
       <TableRow key={p1} className="text-center text-lg border-4 uppercase">
-        <TableCell className="text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50 w-[230px]">{p1}</TableCell>
+        <TableCell className="text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50 w-[230px]"><div>{p1}</div><div>{score_p1}</div></TableCell>
         <TableCell className="bg-textPurple/70 border-4 border-black/100 hover:bg-textPurple/50 size-[3rem]">VS</TableCell>
-        <TableCell className="text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50 w-[230px]">{p2}</TableCell>
+        <TableCell className="text-textPurple bg-white/70 border-4 border-black/100 hover:bg-white/50 w-[230px]"><div>{p2}</div><div>{score_p2}</div></TableCell>
       </TableRow>
       </DrawerTrigger>
       <DrawerContent className="align-center justify-center place-items-center bg-navbarGray">

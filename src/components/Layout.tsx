@@ -1,7 +1,7 @@
 import { Navigate, Outlet } from 'react-router-dom'
 import Header from './Header'
 import Footer from './Footer'
-import gif from '/suspense.gif'
+import mobile_bg from '/mobile_bg.png'
 import { Suspense, lazy } from 'react'
 import MobileHeader from './MobileHeader'
 
@@ -16,8 +16,8 @@ export default function Layout() {
         <div className="p-6">
           <Outlet/>
         </div>
-        <Suspense fallback={<img src={gif} id='bgVideo'></img>}>
-          {window.innerWidth >= 723 ? <Video/> : <img src={gif} id='bgVideo'></img> }
+        <Suspense fallback={<img src={mobile_bg} id='bgMobile'></img>}>
+          {window.innerWidth >= 723 ? <Video/> : <img src={mobile_bg} id='bgMobile'></img> }
         </Suspense>
       </main>
       <Footer/>
