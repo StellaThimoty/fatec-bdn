@@ -4,7 +4,7 @@ import TabelaRodada from '@/components/TabelaRodada';
 import TabelaFinal from '@/components/TabelaFinal';
 
 export default function Tabela() {
-  const fase1 = false;
+  const fase1 = true;
   const fase2 = false; 
   // Mudar quando necessário 
   return (
