@@ -1,8 +1,8 @@
 import RodadaSelector from "@/components/RodadaSelector";
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ui/accordion";
 export default function Rodadas() {
-  const campComecou = true;
-  const fase1 = true;
+  const campComecou = false;
+  const fase1 = false;
   const fase2 = false;
 
   return (
