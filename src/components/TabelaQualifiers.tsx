@@ -1,5 +1,6 @@
 import { FaChevronUp } from "react-icons/fa";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "./ui/table";
+import data from './../assets/classificacao.json'
 
 export default function TabelaQualifiers() {
   return (
