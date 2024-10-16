@@ -32,7 +32,7 @@ export default function RodadaSelector() {
             <TableBody>
               {partidas.slice(pos-1, pos).map((partida) => (
                 partida.partidas.slice(0,4).map((vs, index) => (
-                  isDesktop ? <RodadaDesktop key={index+16} p1={vs.p1} p2={vs.p2} /> : <RodadaMobile key={index+20} p1={vs.p1} p2={vs.p2} />
+                  isDesktop ? <RodadaDesktop key={index+16} p1={vs.p1} p2={vs.p2} vod={vs.vod} score_p1={vs.score_p1} score_p2={vs.score_p2} /> : <RodadaMobile key={index+20} p1={vs.p1} p2={vs.p2} vod={vs.vod} score_p1={vs.score_p1} score_p2={vs.score_p2}/>
                 ))))}
             </TableBody>
           </Table>
@@ -40,7 +40,7 @@ export default function RodadaSelector() {
             <TableBody>
               {partidas.slice(pos-1,pos).map((partida) => (
                 partida.partidas.slice(4,8).map((vs, index) => (
-                  isDesktop ? <RodadaDesktop key={index+32} p1={vs.p1} p2={vs.p2} /> : <RodadaMobile key={index+40} p1={vs.p1} p2={vs.p2} />
+                  isDesktop ? <RodadaDesktop key={index+32} p1={vs.p1} p2={vs.p2} vod={vs.vod} score_p1={vs.score_p1} score_p2={vs.score_p2}/> : <RodadaMobile key={index+40} p1={vs.p1} p2={vs.p2} vod={vs.vod} score_p1={vs.score_p1} score_p2={vs.score_p2}/>
                 ))))}
             </TableBody>
           </Table>
