@@ -18,7 +18,7 @@ export default function RodadaMobile({p1, p2, vod, score_p1="0", score_p2="0"}: 
         <DrawerHeader>
           <DrawerTitle className="text-center text-lg font-lemonmilk uppercase text-textPurple">VOD - {p1} vs {p2}</DrawerTitle>
         </DrawerHeader>
-        <iframe className="ml-[0.4rem] align-center justify-center mb-8" src={vod ? `https://youtube.com/embed/${vod}` : 'https://youtube.com/embed/l7O9sBFsrfY'} width={320} height={240}/>
+        <iframe className="ml-[0.4rem] align-center justify-center mb-8" src={vod ? `https://youtube.com/embed/${vod.split('/')[3]?.split('?')[0]}` : 'https://youtube.com/embed/l7O9sBFsrfY'} width={320} height={240}/>
       </DrawerContent>
     </Drawer>
   )

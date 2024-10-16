@@ -22,7 +22,7 @@ export default function RodadaDesktop({p1, p2, vod, score_p1="0", score_p2="0"}:
           <Cross2Icon className="h-8 w-8" />
           </DialogClose>
         </DialogHeader>
-        <iframe className="ml-[0.4rem]" src={vod ? `https://youtube.com/embed/${vod}` : 'https://youtube.com/embed/l7O9sBFsrfY'} width={640} height={480}/>
+        <iframe className="ml-[0.4rem]" src={vod ? `https://youtube.com/embed/${vod.split('/')[3]?.split('?')[0]}` : 'https://youtube.com/embed/l7O9sBFsrfY'} width={640} height={480}/>
       </DialogContent>
     </Dialog>
   )
