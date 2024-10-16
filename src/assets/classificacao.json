@@ -1,98 +1,130 @@
 [
-  {
-      "name": "Jacaaa",
-      "points": 12,
-      "wins": 4,
-      "losses": 0,
-      "diff_pts": 8,
-      "tie_breaker": 0
-  },
-  {
-      "name": "Guiziin",
-      "points": 11,
-      "wins": 3,
-      "losses": 1,
-      "diff_pts": 3,
-      "tie_breaker": 0
-  },
-  {
-      "name": "Zanaylo",
-      "points": 10,
-      "wins": 3,
-      "losses": 1,
-      "diff_pts": 4,
-      "tie_breaker": 1
-  },
-  {
-      "name": "ShueideR",
-      "points": 10,
-      "wins": 3,
-      "losses": 1,
-      "diff_pts": 3,
-      "tie_breaker": 1
-  },
-  {
-      "name": "Axuul",
-      "points": 9,
-      "wins": 2,
-      "losses": 2,
-      "diff_pts": 1,
-      "tie_breaker": 1
-  },
-  {
-      "name": "Zarteke",
-      "points": 9,
-      "wins": 2,
-      "losses": 2,
-      "diff_pts": 1,
-      "tie_breaker": 1
-  },
-  {
-      "name": "Ferovsky",
-      "points": 8,
-      "wins": 2,
-      "losses": 2,
-      "diff_pts": -1,
-      "tie_breaker": 0
-  },
-  {
-      "name": "Akazacaiu",
-      "points": 7,
-      "wins": 1,
-      "losses": 3,
-      "diff_pts": -3,
-      "tie_breaker": 0
-  },
-  {
-      "name": "ggsKnox",
-      "points": 6,
-      "wins": 1,
-      "losses": 3,
-      "diff_pts": -3,
-      "tie_breaker": 1
-  },
-  {
-      "name": "Klasfer",
-      "points": 6,
-      "wins": 1,
-      "losses": 3,
-      "diff_pts": -4,
-      "tie_breaker": 1
-  },
-  {
-      "name": "Erivpv",
-      "points": 5,
-      "wins": 1,
-      "losses": 3,
-      "diff_pts": -4,
-      "tie_breaker": 0
-  },
-  {
-      "name": "Misimuso",
-      "points": 4,
-      "wins": 1,
-      "losses": 3,
-      "diff_pts": -5,
-      "tie_breaker": 0
-  }
+    {
+        "name": "Klasfer",
+        "points": 12,
+        "wins": 4,
+        "losses": 0,
+        "diff_pts": 10,
+        "tie_breaker": 1
+    },
+    {
+        "name": "Guigols",
+        "points": 12,
+        "wins": 4,
+        "losses": 0,
+        "diff_pts": 8,
+        "tie_breaker": 1
+    },
+    {
+        "name": "Akaza",
+        "points": 11,
+        "wins": 3,
+        "losses": 1,
+        "diff_pts": 6,
+        "tie_breaker": 0
+    },
+    {
+        "name": "Axuul",
+        "points": 10,
+        "wins": 3,
+        "losses": 1,
+        "diff_pts": 5,
+        "tie_breaker": 3
+    },
+    {
+        "name": "GRP | Ferovsky",
+        "points": 10,
+        "wins": 3,
+        "losses": 1,
+        "diff_pts": 4,
+        "tie_breaker": 3
+    },
+    {
+        "name": "Thiago",
+        "points": 10,
+        "wins": 3,
+        "losses": 1,
+        "diff_pts": 4,
+        "tie_breaker": 3
+    },
+    {
+        "name": "Eri^",
+        "points": 10,
+        "wins": 3,
+        "losses": 1,
+        "diff_pts": 2,
+        "tie_breaker": 3
+    },
+    {
+        "name": "[HSPC] Knox",
+        "points": 9,
+        "wins": 3,
+        "losses": 1,
+        "diff_pts": 2,
+        "tie_breaker": 1
+    },
+    {
+        "name": "Guizin",
+        "points": 9,
+        "wins": 1,
+        "losses": 3,
+        "diff_pts": 0,
+        "tie_breaker": 1
+    },
+    {
+        "name": "Sorixx",
+        "points": 7,
+        "wins": 2,
+        "losses": 2,
+        "diff_pts": 0,
+        "tie_breaker": 0
+    },
+    {
+        "name": "miidas",
+        "points": 6,
+        "wins": 1,
+        "losses": 3,
+        "diff_pts": -3,
+        "tie_breaker": 0
+    },
+    {
+        "name": "chileseco",
+        "points": 5,
+        "wins": 0,
+        "losses": 4,
+        "diff_pts": -7,
+        "tie_breaker": 0
+    },
+    {
+        "name": "G9 | Misimuso",
+        "points": 4,
+        "wins": 1,
+        "losses": 3,
+        "diff_pts": -5,
+        "tie_breaker": 1
+    },
+    {
+        "name": "sun",
+        "points": 4,
+        "wins": 0,
+        "losses": 4,
+        "diff_pts": -8,
+        "tie_breaker": 0
+    },
+    {
+        "name": "Zanaylo",
+        "points": 3,
+        "wins": 1,
+        "losses": 3,
+        "diff_pts": -8,
+        "tie_breaker": 0
+    },
+    {
+        "name": "Zarteke",
+        "points": 2,
+        "wins": 0,
+        "losses": 4,
+        "diff_pts": -10,
+        "tie_breaker": 0
+    }
 ]
