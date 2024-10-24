@@ -16,8 +16,8 @@ export default function Layout() {
         <div className="p-6">
           <Outlet/>
         </div>
-        <Suspense fallback={<img src={mobile_bg} id='bgMobile'></img>}>
-          {window.innerWidth >= 723 ? <Video/> : <img src={mobile_bg} id='bgMobile'></img> }
+        <Suspense fallback={<img draggable="false" onDragStart={() => false} src={mobile_bg} id='bgMobile'></img>}>
+          {window.innerWidth >= 723 ? <Video/> : <img draggable="false" onDragStart={() => false} src={mobile_bg} id='bgMobile'></img> }
         </Suspense>
       </main>
       <Footer/>

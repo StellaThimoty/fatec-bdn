@@ -72,3 +72,13 @@
   height: 100vh;
   z-index: -1;
 }
+
+img {
+    pointer-events: none;
+    user-select: none;
+}
+
+video {
+  pointer-events: none;
+  user-select: none;
+}

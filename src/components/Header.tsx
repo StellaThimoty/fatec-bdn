@@ -5,20 +5,20 @@ import { NavLink } from 'react-router-dom'
 export default function Header() {
   return (
     <>
-      <nav className="font-lemonmilk flex place-items-center place-content-center bg-navbarGray" role="navigation" aria-label="main navigation">
-        <NavLink to='home' className={({isActive}) => isActive ? "ml-auto mr-5 mx-5 py-4 text-textPurple decoration-4 underline-offset-4 underline" : "ml-auto mr-5 mx-5 my-4 text-textPurple underline-hover"}>
+      <nav draggable="false" className="select-none font-lemonmilk flex place-items-center place-content-center bg-navbarGray" role="navigation" aria-label="main navigation">
+        <NavLink to='home' draggable="false" className={({isActive}) => isActive ? "ml-auto mr-5 mx-5 py-4 text-textPurple decoration-4 underline-offset-4 select-none underline" : "ml-auto mr-5 mx-5 my-4 text-textPurple select-none underline-hover"}>
         &nbsp;HOME&nbsp;
         </NavLink> 
-        <NavLink to='regulamento' className={({isActive}) => isActive ? "mx-5 py-4 text-textPurple decoration-4 underline-offset-4 underline" : "mx-5 my-4 text-textPurple underline-hover"}>
+        <NavLink to='regulamento' draggable="false" className={({isActive}) => isActive ? "mx-5 py-4 text-textPurple decoration-4 underline-offset-4 select-none underline" : "mx-5 my-4 text-textPurple select-none underline-hover"}>
         &nbsp;REGULAMENTO&nbsp;
         </NavLink>
-        <NavLink to='rodadas' className={({isActive}) => isActive ? "mx-5 py-4 text-textPurple decoration-4 underline-offset-4 underline" : "mx-5 my-4 text-textPurple underline-hover"}>
+        <NavLink to='rodadas' draggable="false" className={({isActive}) => isActive ? "mx-5 py-4 text-textPurple decoration-4 underline-offset-4 select-none underline" : "mx-5 my-4 text-textPurple select-none underline-hover"}>
         &nbsp;RODADAS&nbsp;
         </NavLink>
-        <NavLink to='tabela' className={({isActive}) => isActive ? "mx-5 py-4 text-textPurple decoration-4 underline-offset-4 underline" : "mx-5 my-4 text-textPurple underline-hover"}>
+        <NavLink to='tabela' draggable="false" className={({isActive}) => isActive ? "mx-5 py-4 text-textPurple decoration-4 underline-offset-4 select-none underline" : "mx-5 my-4 text-textPurple select-none underline-hover"}>
         &nbsp;TABELA&nbsp;
         </NavLink>
-        <NavLink to='staff' className={({isActive}) => isActive ? "mr-auto ml-5 mx-5 py-4 text-textPurple decoration-4 underline-offset-4 underline" : "mr-auto ml-5 mx-5 my-4 text-textPurple underline-hover"}>
+        <NavLink to='staff' draggable="false" className={({isActive}) => isActive ? "mr-auto ml-5 mx-5 py-4 text-textPurple decoration-4 underline-offset-4 select-none underline" : "mr-auto ml-5 mx-5 my-4 text-textPurple select-none underline-hover"}>
         &nbsp;STAFF&nbsp;
         </NavLink>
       </nav>
