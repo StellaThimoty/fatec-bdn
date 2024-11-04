@@ -1,26 +1,58 @@
 [
     {
         "name": "Klasfer",
-        "points": 39,
-        "wins": 12,
+        "points": 42,
+        "wins": 13,
         "losses": 2,
-        "diff_pts": 27,
+        "diff_pts": 30,
         "tie_breaker": 0
     },
     {
         "name": "Guizin",
-        "points": 37,
-        "wins": 9,
+        "points": 40,
+        "wins": 10,
         "losses": 5,
-        "diff_pts": 17,
+        "diff_pts": 20,
         "tie_breaker": 0
     },
     {
-        "name": "Guigols",
-        "points": 35,
+        "name": "miidas",
+        "points": 38,
         "wins": 11,
-        "losses": 2,
-        "diff_pts": 15,
+        "losses": 4,
+        "diff_pts": 22,
+        "tie_breaker": 0
+    },
+    {
+        "name": "[HSPC] Knox",
+        "points": 37,
+        "wins": 11,
+        "losses": 4,
+        "diff_pts": 17,
+        "tie_breaker": 1
+    },
+    {
+        "name": "Guigols",
+        "points": 37,
+        "wins": 11,
+        "losses": 4,
+        "diff_pts": 11,
+        "tie_breaker": 1
+    },
+    {
+        "name": "Axuul",
+        "points": 36,
+        "wins": 11,
+        "losses": 4,
+        "diff_pts": 12,
+        "tie_breaker": 0
+    },
+    {
+        "name": "Eri^",
+        "points": 34,
+        "wins": 10,
+        "losses": 5,
+        "diff_pts": 8,
         "tie_breaker": 0
     },
     {
@@ -32,44 +64,12 @@
         "tie_breaker": 0
     },
     {
-        "name": "miidas",
-        "points": 32,
-        "wins": 9,
-        "losses": 4,
-        "diff_pts": 17,
-        "tie_breaker": 0
-    },
-    {
-        "name": "[HSPC] Knox",
-        "points": 31,
-        "wins": 9,
-        "losses": 4,
-        "diff_pts": 13,
-        "tie_breaker": 0
-    },
-    {
-        "name": "Axuul",
-        "points": 30,
-        "wins": 9,
-        "losses": 4,
-        "diff_pts": 9,
-        "tie_breaker": 1
-    },
-    {
         "name": "Thiago",
         "points": 30,
         "wins": 8,
         "losses": 6,
         "diff_pts": 7,
-        "tie_breaker": 1
-    },
-    {
-        "name": "Eri^",
-        "points": 28,
-        "wins": 8,
-        "losses": 5,
-        "diff_pts": 3,
-        "tie_breaker": 1
+        "tie_breaker": 0
     },
     {
         "name": "GRP | Ferovsky",
@@ -77,54 +77,54 @@
         "wins": 7,
         "losses": 7,
         "diff_pts": -1,
-        "tie_breaker": 1
+        "tie_breaker": 0
     },
     {
         "name": "chileseco",
         "points": 21,
         "wins": 4,
-        "losses": 10,
-        "diff_pts": -13,
-        "tie_breaker": 0
+        "losses": 11,
+        "diff_pts": -16,
+        "tie_breaker": 1
     },
     {
         "name": "sun",
-        "points": 20,
+        "points": 21,
         "wins": 3,
-        "losses": 11,
-        "diff_pts": -14,
-        "tie_breaker": 0
+        "losses": 12,
+        "diff_pts": -16,
+        "tie_breaker": 1
     },
     {
         "name": "Sorixx",
-        "points": 17,
+        "points": 18,
         "wins": 3,
-        "losses": 10,
-        "diff_pts": -14,
+        "losses": 12,
+        "diff_pts": -19,
         "tie_breaker": 0
     },
     {
         "name": "G9 | Misimuso",
-        "points": 15,
+        "points": 17,
         "wins": 4,
-        "losses": 8,
-        "diff_pts": -14,
+        "losses": 10,
+        "diff_pts": -18,
         "tie_breaker": 0
     },
     {
         "name": "Zanaylo",
-        "points": 9,
+        "points": 10,
         "wins": 2,
-        "losses": 12,
-        "diff_pts": -30,
+        "losses": 13,
+        "diff_pts": -32,
         "tie_breaker": 0
     },
     {
         "name": "Zarteke",
         "points": 8,
         "wins": 1,
-        "losses": 13,
-        "diff_pts": -31,
+        "losses": 14,
+        "diff_pts": -34,
         "tie_breaker": 0
     }
 ]
