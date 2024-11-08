@@ -45,7 +45,15 @@
         "wins": 11,
         "losses": 4,
         "diff_pts": 12,
-        "tie_breaker": 0
+        "tie_breaker": 1
+    },
+    {
+        "name": "Akaza",
+        "points": 36,
+        "wins": 10,
+        "losses": 5,
+        "diff_pts": 11,
+        "tie_breaker": 1
     },
     {
         "name": "Eri^",
@@ -56,27 +64,19 @@
         "tie_breaker": 0
     },
     {
-        "name": "Akaza",
-        "points": 33,
-        "wins": 9,
-        "losses": 5,
-        "diff_pts": 9,
-        "tie_breaker": 0
-    },
-    {
         "name": "Thiago",
-        "points": 30,
+        "points": 31,
         "wins": 8,
-        "losses": 6,
-        "diff_pts": 7,
+        "losses": 7,
+        "diff_pts": 5,
         "tie_breaker": 0
     },
     {
         "name": "GRP | Ferovsky",
         "points": 28,
         "wins": 7,
-        "losses": 7,
-        "diff_pts": -1,
+        "losses": 8,
+        "diff_pts": -4,
         "tie_breaker": 0
     },
     {
@@ -96,19 +96,19 @@
         "tie_breaker": 1
     },
     {
+        "name": "G9 | Misimuso",
+        "points": 20,
+        "wins": 5,
+        "losses": 10,
+        "diff_pts": -15,
+        "tie_breaker": 0
+    },
+    {
         "name": "Sorixx",
         "points": 18,
         "wins": 3,
         "losses": 12,
         "diff_pts": -19,
-        "tie_breaker": 0
-    },
-    {
-        "name": "G9 | Misimuso",
-        "points": 17,
-        "wins": 4,
-        "losses": 10,
-        "diff_pts": -18,
         "tie_breaker": 0
     },
     {
