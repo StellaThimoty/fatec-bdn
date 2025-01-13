@@ -3,7 +3,7 @@ import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/
 export default function Rodadas() {
   const campComecou = true;
   const fase1 = true;
-  const fase2 = false;
+  const fase2 = true;
 
   return (
     <>
