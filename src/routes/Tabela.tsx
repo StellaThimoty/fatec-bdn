@@ -5,7 +5,7 @@ import TabelaFinal from '@/components/TabelaFinal';
 
 export default function Tabela() {
   const fase1 = true;
-  const fase2 = false; 
+  const fase2 = true; 
   // Mudar quando necessário 
   return (
     <>
