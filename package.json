@@ -1,5 +1,6 @@
 {
   "name": "fatec-bdn",
+  "base": "https://stellathimoty.github.io/fatec-bdn",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
