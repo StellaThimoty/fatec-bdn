@@ -9,13 +9,5 @@ Para instalar, basta clonar o repositório com seu método favorito e rodar `pnp
 Pode ser adaptado para qualquer caso de um campeonato classificatório, apenas mude as cores em `tailwind.config.js` e, se necessário, adapte os elementos. Não há planos para versões multilingue do site, mas é facilmente adaptável para isso.
 
 ## Este site é código livre, e sempre será. 
-  Programado por: 
-  - [EfzStella](https://bsky.app/profile/efzstella.moe)
-  - [Hakkou](https://bsky.app/profile/hakkou.moe)
-  - [CodeEpsilon](https://bsky.app/profile/codeepsilon5.moe)
-
-  Desenhado por:
-   - [Ferovksy](https://bsky.app/profile/ferovsky935.bsky.social)
-   - [Desert Monkey](https://bsky.app/profile/desertmonkeyba.bsky.social)
 
 Este site usa a fonte [LemonMilk](https://marsnev.com)
