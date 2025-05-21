@@ -1,7 +1,6 @@
 {
-  "name": "bdn-react-vite",
+  "name": "fatec-bdn",
   "version": "1.0.0",
-  "homepage": "https://ligabaroesdanoite.site",
   "type": "module",
   "scripts": {
     "dev": "vite",
