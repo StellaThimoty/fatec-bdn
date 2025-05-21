@@ -2,7 +2,7 @@ import { FaBluesky, FaYoutube, FaGithub } from "react-icons/fa6"
 export default function StaffCard({person, handle, yt, gh}: {person: string, handle?: string, yt?:string, gh?:string}) {
   return (
       <div className="flex flex-row w-1/3 mt-4">
-        <img src={`${import.meta.env.BASE_URL}/`+`${person}.webp`} alt={person} className="rounded-full size-[85px] aspect-square" />
+        <img src={`${import.meta.env.BASE_URL}/`+`/${person}.webp`} alt={person} className="rounded-full size-[85px] aspect-square" />
         <div>
           <h1 className="underline-staff text-4xl ml-4">{person}</h1>
          <div className="flex flex-row">
